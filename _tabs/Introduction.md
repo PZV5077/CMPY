@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-info-circle
-order: 0
+order: 4
 ---
 
 # Welcome to the World of Classical Music!
